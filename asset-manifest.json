@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-employee-tracker-github.io/static/js/main.a8d5e096.chunk.js",
+    "main.js.map": "/react-employee-tracker-github.io/static/js/main.a8d5e096.chunk.js.map",
+    "runtime-main.js": "/react-employee-tracker-github.io/static/js/runtime-main.1a1a159e.js",
+    "runtime-main.js.map": "/react-employee-tracker-github.io/static/js/runtime-main.1a1a159e.js.map",
+    "static/js/2.c9196303.chunk.js": "/react-employee-tracker-github.io/static/js/2.c9196303.chunk.js",
+    "static/js/2.c9196303.chunk.js.map": "/react-employee-tracker-github.io/static/js/2.c9196303.chunk.js.map",
+    "index.html": "/react-employee-tracker-github.io/index.html",
+    "static/js/2.c9196303.chunk.js.LICENSE.txt": "/react-employee-tracker-github.io/static/js/2.c9196303.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a1a159e.js",
+    "static/js/2.c9196303.chunk.js",
+    "static/js/main.a8d5e096.chunk.js"
+  ]
+}
