@@ -1,13 +1,16 @@
-import './App.css';
 import React from "react";
-import Home from "./components/Pages/Home";
-
+import Main from "./components/Main";
+import Wrapper from "./components/Main";
+import Header from "./components/Header";
 
 function App() {
   return (
-      <div className = "container">
-        <Home />
-      </div>
+    <div className="App">
+      <Wrapper>
+        <Header />
+        <Main />
+      </Wrapper>
+    </div>
   );
 }
 
